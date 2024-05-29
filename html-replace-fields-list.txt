@@ -1,0 +1,42 @@
+Campos que deben reemplazarse en HTML:
+- Logo Url
+- Icon Adopt Url
+- Adopt Rarity
+- Adopt Code
+
+BADGE SECTION
+--------------
+- With Badge? boolean
+	- YES -> Badge Url
+	- NO -> not display de Badge
+
+
+OWNERS SECTION
+--------------
+Por defecto se debe tener un owner siempre.
+- Dar la opcion de agregar mas (+ button)
+  - Owner Name
+  - Owner URL
+
+Designers Section
+-----------------
+Por defecto se debe tener un designer siempre.
+- Dar la opcion de agregar mas (+ button)
+  - Designer Name
+  - Designer URL
+
+Traits Section
+Por defecto, se debe tener un trait siempre.
+- Dar la opcion de agregar mas (+ button)
+  - Trait Rarity
+  - Trait Additional Info
+
+Items
+-----------------------------------------------------------------
+Se puede NO tener items al comienzo.
+- With Item? boolean
+  - Yes -> Se despliega la seccion. Se pueden agregar más. Max 09
+     - Item URL
+  - No -> No se despliega la seccion.
+
+Form

@@ -1,5 +1,7 @@
+import { HtmlGenerator } from "./app/HtmlGenerator";
+
 function App() {
-  return <div>Testing</div>;
+  return <HtmlGenerator />;
 }
 
 export default App;
